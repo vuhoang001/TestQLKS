@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/vuhoa/OneDrive/Documents/NetBeansProjects/aa/QUANLY_KHACHSAN/src/DAL/Connect_and_Close_DB.java</file>
+            <file>file:/C:/Users/vuhoa/OneDrive/Documents/NetBeansProjects/aa/QUANLY_KHACHSAN/src/GUI/GUI_DangNhap.java</file>
+            <file>file:/C:/Users/vuhoa/OneDrive/Documents/NetBeansProjects/aa/QUANLY_KHACHSAN/src/BLL/BLL_Phong.java</file>
+            <file>file:/C:/Users/vuhoa/OneDrive/Documents/NetBeansProjects/aa/QUANLY_KHACHSAN/src/BLL/BLL_CT_HDDV.java</file>
+            <file>file:/C:/Users/vuhoa/OneDrive/Documents/NetBeansProjects/aa/QUANLY_KHACHSAN/src/BLL/BLL_CT_HDDP.java</file>
+            <file>file:/C:/Users/vuhoa/OneDrive/Documents/NetBeansProjects/aa/QUANLY_KHACHSAN/src/BLL/BLL_BienLai.java</file>
+            <file>file:/C:/Users/vuhoa/OneDrive/Documents/NetBeansProjects/aa/QUANLY_KHACHSAN/src/DTO/DTO_DichVu.java</file>
+            <file>file:/C:/Users/vuhoa/OneDrive/Documents/NetBeansProjects/aa/QUANLY_KHACHSAN/src/DAL/Interface_CT_HDDV.java</file>
+            <file>file:/C:/Users/vuhoa/OneDrive/Documents/NetBeansProjects/aa/QUANLY_KHACHSAN/src/GUI/GUI_CT_HDDV.java</file>
+            <file>file:/C:/Users/vuhoa/OneDrive/Documents/NetBeansProjects/aa/QUANLY_KHACHSAN/src/DTO/DTO_HDDV.java</file>
+            <file>file:/C:/Users/vuhoa/OneDrive/Documents/NetBeansProjects/aa/QUANLY_KHACHSAN/src/BLL/BLL_TaiKhoan.java</file>
+            <file>file:/C:/Users/vuhoa/OneDrive/Documents/NetBeansProjects/aa/QUANLY_KHACHSAN/src/DTO/DTO_NhanVien.java</file>
+            <file>file:/C:/Users/vuhoa/OneDrive/Documents/NetBeansProjects/aa/QUANLY_KHACHSAN/src/GUI/GUI_QLDichVu.java</file>
+            <file>file:/C:/Users/vuhoa/OneDrive/Documents/NetBeansProjects/aa/QUANLY_KHACHSAN/src/DTO/DTO_Phong.java</file>
+            <file>file:/C:/Users/vuhoa/OneDrive/Documents/NetBeansProjects/aa/QUANLY_KHACHSAN/src/DTO/DTO_khachHang.java</file>
+            <file>file:/C:/Users/vuhoa/OneDrive/Documents/NetBeansProjects/aa/QUANLY_KHACHSAN/src/BLL/BLL_KhachHang.java</file>
+            <file>file:/C:/Users/vuhoa/OneDrive/Documents/NetBeansProjects/aa/QUANLY_KHACHSAN/src/BLL/BLL_HDDV.java</file>
+            <file>file:/C:/Users/vuhoa/OneDrive/Documents/NetBeansProjects/aa/QUANLY_KHACHSAN/src/GUI/GUI_QLHDDV.java</file>
+            <file>file:/C:/Users/vuhoa/OneDrive/Documents/NetBeansProjects/aa/QUANLY_KHACHSAN/src/BLL/BLL_DichVu.java</file>
+            <file>file:/C:/Users/vuhoa/OneDrive/Documents/NetBeansProjects/aa/QUANLY_KHACHSAN/src/GUI/GUI_CT_HDDP.java</file>
+            <file>file:/C:/Users/vuhoa/OneDrive/Documents/NetBeansProjects/aa/QUANLY_KHACHSAN/src/BLL/BLL_NhanVien.java</file>
+            <file>file:/C:/Users/vuhoa/OneDrive/Documents/NetBeansProjects/aa/QUANLY_KHACHSAN/src/BLL/BLL_HDDP.java</file>
+            <file>file:/C:/Users/vuhoa/OneDrive/Documents/NetBeansProjects/aa/QUANLY_KHACHSAN/src/DAL/Interface_CT_HDDP.java</file>
+            <file>file:/C:/Users/vuhoa/OneDrive/Documents/NetBeansProjects/aa/QUANLY_KHACHSAN/src/GUI/GUI_GiaoDienChinh_ADMIN.java</file>
+        </group>
+    </open-files>
+</project-private>
