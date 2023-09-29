@@ -11,5 +11,6 @@ public class BLL_BienLai {
     public static void main(String[] args) {
         System.out.println("hoang");
         System.out.println("new branch");
+        System.out.println("abc");
     }
 }
